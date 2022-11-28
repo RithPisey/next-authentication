@@ -1,0 +1,1 @@
+-- implement something like generate hash or query database
